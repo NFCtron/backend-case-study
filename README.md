@@ -2,6 +2,8 @@
 
 > 👋 Vítejte u zadání pro kandidáty na pozici ⚙️ **Backend Developer** v NFCtron!
 
+<img src="https://www.nfctron.com/data/blog/hr-mock.1733915983.jpg" alt="Buduj s NFCtron!" />
+
 ## 🛠️ Technologie
 
 -   NodeJS 20+
@@ -14,6 +16,11 @@
 ## 📝 Zadání
 
 Cílem je seznámit se se základními koncepty frameworku NestJS a napsat jednoduchý webový server, který simuluje evidenci zákazníků.
+
+Po dokončení úkolu přiložte do žádosti u našeho inzerátu **Backend Developer | Incubation 2025**:
+
+-   odkaz na Váš repozitář,
+-   a odkaz na nasazenou aplikaci.
 
 Struktura aplikace:
 
@@ -58,7 +65,7 @@ Doporučuju přečíst alespoň první kapitoly dokumentace NestJS, na internetu
 -   Na jednom projektu pracuje víc lidí a jeden člověk pracuje na více projektech. Je důležité, aby kód byl hezký, okomentovaný a pochopitelný i s odstupem času. Očekáváme, že toto **základní zadání se dá naprogramovat do dvou hodin.**
 -   V bonusových zadáních jsou příklady věcí, se kterými se v našem týmu budeš potkávat denně. Hodně záleží na předchozích znalostech, proto jsou záměrně volně zadané. Bude nás zajímat i tvůj komentář, jak jsi se s nimi popral!
 
-📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit.
+📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit na emailu [hr@nfctron.com](mailto:hr@nfctron.com).
 
 ---
 
